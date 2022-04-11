@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aşkın Cihan Kılıç
 - 👀 I’m interested in Python
-- 🌱 I’m currently Data Structures
+- 🌱 I’m currently studying Data Structures
 - 📫 askincihankilic@gmail.com
 
 
